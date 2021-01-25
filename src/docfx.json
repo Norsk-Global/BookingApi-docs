@@ -1,0 +1,50 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/**.yml",
+          "**/**.md"
+        ],
+        "exclude": [
+          "obj/**",
+          "_Site/**"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "images/**",
+          "assets/**",
+          "**/*.png",
+          "**/*.jpg",
+          "**/*.svg",
+          "**/*.gif",
+          "**/*.ppt",
+          "**/*.pptx",
+          "**/*.pdf",
+        ]
+      }
+    ],
+    "overwrite": [
+      {
+        "files": [],
+        "exclude": [
+          "obj/**",
+          "_site/**"
+        ]
+      }
+    ],
+    "dest": "../_site",
+    "template": [
+      "default"
+    ],
+    "noLangKeyword": false,
+    "globalMetadta": {
+      "_appTitle": "Norsk Global Booking API Sdks",
+      "_enableSearch": true,
+      "_docfxVersion": 2
+    }
+  }
+}
