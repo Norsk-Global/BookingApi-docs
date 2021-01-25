@@ -40,7 +40,7 @@
     ],
     "dest": "../_site",
     "template": [
-      "default"
+      "default", "template"
     ],
     "noLangKeyword": false,
     "globalMetadta": {
