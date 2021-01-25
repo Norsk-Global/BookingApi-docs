@@ -2,3 +2,5 @@
   href: index.md
 - name: Examples
   href: examples.md
+- name: Nuget Packages
+  href: nuget_packages.md
