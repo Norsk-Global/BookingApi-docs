@@ -32,11 +32,11 @@
         "files": [],
         "exclude": [
           "obj/**",
-          "docs/**"
+          "_site/**"
         ]
       }
     ],
-    "dest": "docs",
+    "dest": "_site",
     "template": [
       "default"
     ],
