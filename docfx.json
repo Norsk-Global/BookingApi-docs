@@ -8,7 +8,7 @@
         ],
         "exclude": [
           "obj/**",
-          "_Site/**"
+          "_site/**"
         ]
       }
     ],
@@ -36,7 +36,7 @@
         ]
       }
     ],
-    "dest": "../_site",
+    "dest": "_site",
     "template": [
       "default"
     ],
