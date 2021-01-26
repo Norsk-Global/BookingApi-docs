@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Examples
+title: Booking Examples
 --- 
 
 # Examples
