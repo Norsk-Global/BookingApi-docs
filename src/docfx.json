@@ -43,7 +43,7 @@
       "default", "template"
     ],
     "noLangKeyword": false,
-    "globalMetadta": {
+    "globalMetadata": {
       "_appTitle": "Norsk Global Booking API Sdks",
       "_enableSearch": true,
       "_gitConrtribute": {
