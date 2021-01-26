@@ -1,1 +1,4 @@
-### Getting Started
+---
+layout: page
+title: Getting Started
+---

@@ -1,1 +1,4 @@
-### Examples
+---
+layout: page
+title: Examples
+---
